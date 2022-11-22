@@ -1,0 +1,94 @@
+{
+    "strangeloveskateboards": {
+        "data_type": "json",
+        "url": "https://strangeloveskateboards.com/products.json",
+        "prepend": "https://strangeloveskateboards.com/products/"
+    },
+    "kith": {
+        "data_type": "json",
+        "url": "https://kith.com/products.json",
+        "prepend": "https://kith.com/products/"
+    },
+    "yeezysupply": {
+        "data_type": "standard",
+        "url": "https://www.yeezysupply.com/",
+        "prepend": ""
+    },
+    "nordstrom": {
+        "data_type": "not_text",
+        "url": "https://shop.nordstrom.com/s/nike-x-off-white-dunk-low-sneaker/5508749/lite",
+        "prepend": ""
+    },
+    "undefeated": {
+        "data_type": "json",
+        "url": "https://undefeated.com/products.json",
+        "prepend": "https://undefeated.com/products/"
+    },
+    "cncpts": {
+        "data_type": "json",
+        "url": "https://cncpts.com/products.json",
+        "prepend": "https://cncpts.com/products/"
+    },
+    "nike_air-jordan-1-85": {
+        "data_type": "nike",
+        "url": "https://www.nike.com/nl/en/launch/t/air-jordan-1-85/",
+        "prepend": "",
+        "product_id": "526ff9c3-2488-5eb0-b436-6126dfc29f8e",
+        "handle": "air-jordan-1-85"
+    },
+    "nike_sb-dunk-low-strangelove": {
+        "data_type": "nike",
+        "url": "https://www.nike.com/nl/en/launch/t/sb-dunk-low-strangelove/",
+        "prepend": "",
+        "product_id": "bc9e2b25-f113-5de9-8ebe-f8f51d355220",
+        "handle": "sb-dunk-low-strangelove"
+    },
+    "nike_dunk-low-plum": {
+        "data_type": "nike",
+        "url": "https://www.nike.com/nl/en/launch/t/dunk-low-plum/",
+        "prepend": "",
+        "product_id": "8f40f86c-b3db-5a6b-8bfd-8e056fad6b6e",
+        "handle": "dunk-low-plum"
+    },
+    "off_white_error_page": {
+        "data_type": "not_text",
+        "url": "https://www.off---white.com/",
+        "prepend": "",
+        "text": "Error 1020",
+        "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    "travis_scott": {
+        "data_type": "shopify_variant",
+        "url": "https://shop.travisscott.com/products.json",
+        "prepend": "https://shop.travisscott.com/cart/",
+        "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "handle": "cactus-jack-nike-sb-dunk-low-travis-scott"
+    },
+    "oculus_rift_s": {
+        "data_type": "not_text",
+        "url": "https://www.oculus.com/rift-s/?locale=nl_NL",
+        "prepend": "",
+        "text": "Stuur me een melding"
+    },
+    "ps5": {
+        "data_type": "bol",
+        "url": "https://www.bol.com/nl/p/sony-playstation-5-console/9300000004162282/",
+        "json": "https://www.bol.com/nl/ajax/dataLayerEndpoint.html?product_id=9300000004162282",
+        "prepend": "https://shop.travisscott.com/cart/",
+        "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    "ps5_digi": {
+        "data_type": "bol",
+        "url": "https://www.bol.com/nl/p/sony-playstation-5-digital-edition-console/9300000004162392/",
+        "json": "https://www.bol.com/nl/ajax/dataLayerEndpoint.html?product_id=9300000004162392",
+        "prepend": "https://shop.travisscott.com/cart/",
+        "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    "3080": {
+        "data_type": "nvidia",
+        "url": "https://www.nvidia.com/nl-nl/geforce/graphics-cards/30-series/rtx-3080/",
+        "json": "https://api-prod.nvidia.com/direct-sales-shop/DR/products/nl_nl/EUR/5438796700",
+        "prepend": "",
+        "user_agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    }
+}
